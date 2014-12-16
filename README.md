@@ -15,3 +15,8 @@ List of projects using ADMesh
  * [stlsplit](https://github.com/hroncok/stlsplit) - Split STL file to more files - one shell each
  * [viewstl](https://github.com/hroncok/viewstl) - Simple lightview STL viewer
  * [3dcost](https://github.com/pral2a/3dcost) - A shell utility for calculating 3D printing costs at Fablab BCN based on ADMesh
+
+Contributing
+------------
+
+If you want to add a project to this list, send a [Pull Request](https://github.com/admesh/admesh-projects/pulls). Please keep the list alphabetically sorted.
