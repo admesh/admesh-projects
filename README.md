@@ -12,6 +12,7 @@ List of projects using ADMesh
  * [Slic3r](http://slic3r.org/) - G-code generator for 3D printers
  * [snapz](https://github.com/hroncok/snapz) - Snaps STL files to zero Z coordinate (little example)
  * [stl-parser](https://github.com/TheAdherent/stl-parser) - Parsing STL files using ADMesh and some regex
+ * [stlcut](https://github.com/hroncok/stlcut) - Cut STL mesh into 2 meshes, by given plane (work in progress)
  * [stlsplit](https://github.com/hroncok/stlsplit) - Split STL file to more files - one shell each
  * [viewstl](https://github.com/hroncok/viewstl) - Simple lightview STL viewer
  * [3dcost](https://github.com/pral2a/3dcost) - A shell utility for calculating 3D printing costs at Fablab BCN based on ADMesh
