@@ -1,7 +1,7 @@
 List of projects using ADMesh
 =============================
 
- * [ADMeshGUI](https://github.com/vyvledav/ADMeshGUI) - GUI for ADMesh (work in progress)
+ * [ADMeshGUI](https://github.com/vyvledav/ADMeshGUI) - GUI for ADMesh
  * [admesh-parser](https://github.com/coding-in-the-wild/admesh-parser) - Runs ADMesh and converts the output into a JavaScript object
  * [Fracktory](https://github.com/FracktalWorks/Fracktory) - (no idea, summary needed)
  * [node-admesh](https://github.com/ArtskydJ/node-admesh) - Native calculations for STL files in Node.js (never finished)
