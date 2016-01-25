@@ -7,6 +7,8 @@ List of projects using ADMesh
  * [node-admesh](https://github.com/ArtskydJ/node-admesh) - Native calculations for STL files in Node.js (never finished)
  * [omaha-3d-print-database](https://github.com/ArtskydJ/omaha-3d-print-database) - SQL program for logging ADMesh output
  * [python-admesh](https://pypi.python.org/pypi/admesh) - Cython wrapper around ADMesh
+ * [radmesh](https://github.com/admesh/radmesh) - Ruby wrapper around ADMesh library
+ * [ruby-admesh](https://github.com/Ultimaker/ruby-admesh) - Ruby wrapper around ADMesh binary
  * [simarrange](https://github.com/kliment/simarrange) - STL 2D plate packer with collision simulation
  * [Slice & print](https://github.com/exilaus/slice_n_print) - Upload STL -> check -> slice -> (print not now) via web and for Raspberry Pi
  * [Slic3r](http://slic3r.org/) - G-code generator for 3D printers
